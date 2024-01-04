@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55daf2f0-60c4-40b7-9158-ecd824ebaa97" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2HodUqyie43cPCrDSQQsk9yGlbP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/game&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.oop.simpleObjects.parking.Main">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="JavaCore" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.simpleObjects.microwave.Main" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.simpleObjects.microwave.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.simpleObjects.warehouse.Main1" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.simpleObjects.warehouse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oop.simpleObjects.parking.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.simpleObjects.parking.Main" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.simpleObjects.parking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oop.simpleObjects.warehouse.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.simpleObjects.warehouse.Main" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.simpleObjects.warehouse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.HelloWorld" />
+      <item itemvalue="Application.Main1" />
+      <item itemvalue="Application.oop.simpleObjects.warehouse.Main" />
+      <item itemvalue="Application.oop.simpleObjects.parking.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.oop.simpleObjects.parking.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.Main1" />
+        <item itemvalue="Application.oop.simpleObjects.warehouse.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55daf2f0-60c4-40b7-9158-ecd824ebaa97" name="Changes" comment="" />
+      <created>1668955393125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668955393125</updated>
+      <workItem from="1668955394482" duration="3070000" />
+      <workItem from="1668967559586" duration="563000" />
+      <workItem from="1669069150943" duration="11000" />
+      <workItem from="1669069324813" duration="9000" />
+      <workItem from="1669228582226" duration="5429000" />
+      <workItem from="1669314925060" duration="1345000" />
+      <workItem from="1669394038772" duration="5490000" />
+      <workItem from="1669491688721" duration="544000" />
+      <workItem from="1669492242225" duration="1207000" />
+      <workItem from="1669560532439" duration="168000" />
+      <workItem from="1669563277680" duration="5242000" />
+      <workItem from="1669642462274" duration="7166000" />
+      <workItem from="1669655050132" duration="2774000" />
+      <workItem from="1669828845002" duration="6003000" />
+      <workItem from="1669997755979" duration="4732000" />
+      <workItem from="1670158827335" duration="4680000" />
+      <workItem from="1670166321614" duration="7040000" />
+      <workItem from="1670252864497" duration="7428000" />
+      <workItem from="1670325278044" duration="4628000" />
+      <workItem from="1670334244534" duration="10719000" />
+      <workItem from="1670433782048" duration="5015000" />
+      <workItem from="1670617040675" duration="613000" />
+      <workItem from="1670753051425" duration="6759000" />
+      <workItem from="1670782776143" duration="656000" />
+      <workItem from="1670861379615" duration="9200000" />
+      <workItem from="1670929813878" duration="4835000" />
+      <workItem from="1670947676364" duration="1902000" />
+      <workItem from="1670976801144" duration="96000" />
+      <workItem from="1671044366408" duration="5866000" />
+      <workItem from="1671364521161" duration="5563000" />
+      <workItem from="1671458709194" duration="3436000" />
+      <workItem from="1671540583357" duration="4794000" />
+      <workItem from="1672768911090" duration="3637000" />
+      <workItem from="1672857286221" duration="4014000" />
+      <workItem from="1673185356053" duration="6508000" />
+      <workItem from="1673295273107" duration="76000" />
+      <workItem from="1673296090318" duration="732000" />
+      <workItem from="1673357558513" duration="4267000" />
+      <workItem from="1673626909529" duration="2618000" />
+      <workItem from="1673797238806" duration="5966000" />
+      <workItem from="1673869430209" duration="4429000" />
+      <workItem from="1673988340336" duration="119000" />
+      <workItem from="1674038579992" duration="5507000" />
+      <workItem from="1674077898011" duration="596000" />
+      <workItem from="1674207768582" duration="4641000" />
+      <workItem from="1674309899906" duration="1843000" />
+      <workItem from="1674386520506" duration="452000" />
+      <workItem from="1674669816517" duration="6936000" />
+      <workItem from="1675551257316" duration="617000" />
+      <workItem from="1675591691042" duration="5392000" />
+      <workItem from="1675778673910" duration="61000" />
+      <workItem from="1675792605923" duration="1172000" />
+      <workItem from="1675848907129" duration="620000" />
+      <workItem from="1676119586542" duration="609000" />
+      <workItem from="1676156005402" duration="592000" />
+      <workItem from="1676212930146" duration="97000" />
+      <workItem from="1676466725000" duration="1466000" />
+      <workItem from="1676560955248" duration="3539000" />
+      <workItem from="1676735356816" duration="2975000" />
+      <workItem from="1676813451059" duration="5173000" />
+      <workItem from="1676882233908" duration="14269000" />
+      <workItem from="1676978204019" duration="4231000" />
+      <workItem from="1677088201568" duration="5292000" />
+      <workItem from="1677158071747" duration="768000" />
+      <workItem from="1677316722254" duration="3663000" />
+      <workItem from="1677521621409" duration="9890000" />
+      <workItem from="1677760004184" duration="786000" />
+      <workItem from="1677887229574" duration="282000" />
+      <workItem from="1678028693778" duration="5312000" />
+      <workItem from="1678467971444" duration="4413000" />
+      <workItem from="1678728790020" duration="14222000" />
+      <workItem from="1678905545913" duration="5559000" />
+      <workItem from="1679070936328" duration="5064000" />
+      <workItem from="1679241773595" duration="5685000" />
+      <workItem from="1679577107660" duration="6794000" />
+      <workItem from="1679676876353" duration="1019000" />
+      <workItem from="1679835958632" duration="5763000" />
+      <workItem from="1680022346726" duration="3703000" />
+      <workItem from="1680026357456" duration="334000" />
+      <workItem from="1680197827247" duration="625000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
